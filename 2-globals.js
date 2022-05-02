@@ -7,5 +7,5 @@
 // process   - info about environment where the program is being executed
 // 		THIS IS AN IMPORTANT ONE 
 
-console.log(process);
+// console.log(process);
 // prints info about env where code is executed
